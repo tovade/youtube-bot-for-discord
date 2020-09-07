@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.1"
+  }
+}
